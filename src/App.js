@@ -36,7 +36,7 @@ function App() {
       { /* eslint-disable-next-line */ }
       <iframe width="500" height="500" src={url}></iframe><br />
       <button onClick={refresh}>Reload results</button><br />
-      <a href="https://replit.com/@DavidDGTNT/WhereISSServerSide">Having trouble? Use the server-side version!</a>
+      <a href="../server">Having trouble? Use the server-side version!</a>
     </>
   );
 }
