@@ -29,7 +29,7 @@ function App() {
   }, []);
   return (
     <>
-      <span>Latitiude: {lat}</span><br />
+      <span>Latitude: {lat}</span><br />
       <span>Longitude: {long}</span><br />
       <span>Altitude: {alt}</span><br />
       <span>Units: {units}</span><br />
